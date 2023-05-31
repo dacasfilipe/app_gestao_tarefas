@@ -1,0 +1,24 @@
+{
+  "name": "app_gestao_tarefas",
+  "version": "1.0.0",
+  "description": "Aplicativo de gestão de tarefas, utilizando MySQL, NodeJs fazendo uma Api simples CRUD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacasfilipe/app_gestao_tarefas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacasfilipe/app_gestao_tarefas/issues"
+  },
+  "homepage": "https://github.com/dacasfilipe/app_gestao_tarefas#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.3.3"
+  }
+}
